@@ -1,0 +1,22 @@
+2nd March
+
+Preview:
+
+make the best use of linear model to dieal with nonlinear model
+  1. transformation, eg: ln(x)
+  2. spline,  linear model with every window.
+  
+how to choose model?
+  tradeoff between prediction accurary and model interpretability.
+  subset selection/lasso,least square,GAM/tree, bagging/boosting, SVM/deep learning
+  
+  
+today's class
+
+tree-based methods
+
+two part
+1. simple decisoon tree, weakness: high variance, low accuracy
+2. assemble trees, lose the understanding of tree structure
+
+regression tree
