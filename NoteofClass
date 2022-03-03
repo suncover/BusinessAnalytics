@@ -17,7 +17,14 @@ tree-based methods
 
 two part
 1. simple decisoon tree, weakness: high variance, low accuracy
-2. assemble trees, lose the understanding of tree structure
+2. ensemble trees, lose the understanding of tree structure
 
 regression tree
+classfication tree
+
+two strength of tree methods
+  improve accuracy
+  give variable improtance meansure
+  
+  try to learn slowly, which can avoid overfitness and improve prediction accuracy.
 
